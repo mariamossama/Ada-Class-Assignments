@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project>
+    <vfs_file>D:\API\assign2\sec_assign.gpr</vfs_file>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\API\assign2\sec_assign.gpr</vfs_project>
+      <vfs_file>D:\API\assign2\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 20" line=" 62" >
+      <vfs_project>D:\API\assign2\sec_assign.gpr</vfs_project>
+      <vfs_file>D:\API\assign2\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 4" line=" 55" >
+      <vfs_project>D:\API\assign2\sec_assign.gpr</vfs_project>
+      <vfs_file>D:\API\assign2\src\main.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>

@@ -1,0 +1,12 @@
+main.adb:55:04: error: all components must be declared in spec
+main.adb:57:04: error: declaration not allowed in protected body
+main.adb:58:17: error: missing "when"
+main.adb:59:03: error: missing "begin" for "entry" at line 58
+main.adb:59:04: error: "end Stop;" expected
+main.adb:61:04: error: declaration not allowed in protected body
+main.adb:63:07: error: all components must be declared in spec
+main.adb:64:07: error: all components must be declared in spec
+main.adb:65:07: error: all components must be declared in spec
+main.adb:66:07: error: all components must be declared in spec
+main.adb:67:03: error: missing "end Market;"
+main.adb:82:04: error: "end assign;" expected
